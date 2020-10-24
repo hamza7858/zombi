@@ -1,0 +1,10 @@
+<html>
+<head><title>...</title>
+<!--www.Makeserver.ru - Mods and plugins for your dedicated server -->
+<body bgcolor='#444444'>
+<center><h2><font color='#00FF00'>Добро Пожаловать На Наш Зомби сервер!</font></h><br>
+<img src='http://crazyprofile.com/myspace_graphics/imgs/Evil006.jpg'><br>
+<h4><pre><font color='#444444'></font></pre></h><br><a href=''><font color='#444444'>Посетите наш сайт!</font></a></center></body>
+</body></html>
+     
+
